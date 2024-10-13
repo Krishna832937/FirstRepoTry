@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello,sharan are you ok!");
+            Console.WriteLine("27 lpa!");
         }
     }
 }
